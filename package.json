@@ -1,5 +1,6 @@
 {
 	"private": true,
+	"main": "lib/src/index.js",
 	"workspaces": [
 		"lib", "demo"
 	],
