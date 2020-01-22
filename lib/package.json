@@ -13,9 +13,6 @@
     "prepublishOnly": "npm run lint && npm run clean && npm run build",
     "watch": "../node_modules/.bin/babel src --out-dir __dist__ -w"
   },
-  "files": [
-    "__dist__"
-  ],
   "devDependencies": {
     "babel-cli": "^6.24.1",
     "babel-eslint": "^7.2.3",
