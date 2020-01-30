@@ -1,4 +1,6 @@
 {
+	"name": "react-native-theming",
+	"version": "1.0.18",
 	"private": true,
 	"main": "lib/src/index.js",
 	"workspaces": [
